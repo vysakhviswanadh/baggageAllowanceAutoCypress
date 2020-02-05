@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.qantas.com",
+    "chromeWebSecurity": false,
+    "numTestsKeptInMemory": 0,
+    "video": false
+  }

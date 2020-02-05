@@ -1,0 +1,8 @@
+{
+    "origin": "Sydney",
+    "domesticDestination": "Brisbane",
+    "internationalDestination": "Dubai",
+    "baggageDomesticAll": "One piece up to 10kg (22lb); 14kg (30lb) total",
+    "baggageInternationalNonEconomy": "One piece up to 10kg (22lb); 14kg (30lb) total",
+    "baggageInternationalEconomy":"Max 7kg per bag"
+}

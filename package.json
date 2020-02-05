@@ -1,0 +1,16 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "Cypress Tests for Baggage Allowance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Vysakh",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.3.1"
+  }
+}
